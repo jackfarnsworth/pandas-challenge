@@ -132,7 +132,7 @@ We can best increase engagement from young adults by increasing our social media
 All three of these will show a caring and engaged company that supports and shows love to those doing our most important advertising to those who are most engaged. Further, the demographic most likely to see these acts of outreach and support will be exactly our users in their late teens and early twenties.
   
 #### Item Cost
- <table border="1" class="dataframe">
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -149,25 +149,25 @@ All three of these will show a caring and engaged company that supports and show
   </thead>
   <tbody>
     <tr>
-      <th>1-2</th>
+      <th>$1.00 - $1.99</th>
       <td>200</td>
       <td>45</td>
       <td>4.44</td>
     </tr>
     <tr>
-      <th>2-3</th>
+      <th>$2.00 - $2.99</th>
       <td>152</td>
       <td>39</td>
       <td>3.90</td>
     </tr>
     <tr>
-      <th>3-4</th>
+      <th>$3.00 - $3.99</th>
       <td>213</td>
       <td>47</td>
       <td>4.53</td>
     </tr>
     <tr>
-      <th>4-5</th>
+      <th>$4.00 - $4.99</th>
       <td>215</td>
       <td>48</td>
       <td>4.48</td>
@@ -175,7 +175,6 @@ All three of these will show a caring and engaged company that supports and show
   </tbody>
 </table>
 </div>
-
 Presented above is an analysis I was not explicitly asked for but felt needed investigation and the results are striking. Our items are completely bought at a generally higher rate as the price increases, and are relatively flat across the board. This suggests our customers are relatively price indifferent at our current rates. They buy items based on the item they want, NOT on the percieved value of the item. The fact that our most expensive items are consumed at such a high rate suggests our customers tolerance for price has not yet been found, and our low prices are leaving a large amount of profit on the table.
 
 ##### Moving Forward
